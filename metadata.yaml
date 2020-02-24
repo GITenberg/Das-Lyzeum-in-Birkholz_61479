@@ -1,11 +1,16 @@
 _repo: Das-Lyzeum-in-Birkholz_61479
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61479-h/images/cover.jpg
 creator:
   author:
     agent_name: Rose, Felicitas
     gutenberg_agent_id: '51452'
     url: http://www.gutenberg.org/2009/agents/51452
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61479#Das-Lyzeum-in-Birkholz
 gutenberg_issued: '2020-02-22'
 gutenberg_type: Text
 identifiers:
